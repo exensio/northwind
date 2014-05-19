@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2942022481">
+    <data-source source="LOCAL" name="northwind dev" uuid="cd6bd85f-a871-4dac-aeec-f99474a44c83">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://WIN-B4M89DKQ0F9:1433;databaseName=ACCESS-NOTHWIND</jdbc-url>
+      <user-name>exensio</user-name>
+      <user-password>dfcfdfd2dfcfdfc4dfd9dfc3dfc5</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
