@@ -1,6 +1,6 @@
 #Northwind
 
-Migration of  Northwind database from MS ACCESS to MS SQL Server and Grails Framework
+Migration of  Northwind database from MS ACCESS to MS SQL Server by using Grails Framework
 
 ##Installation
 * Please add the JDBC driver for MS SQL Server (sqljdbc4.jar
