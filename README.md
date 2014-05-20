@@ -9,7 +9,8 @@ Migration of  Northwind database from MS ACCESS to MS SQL Server and Grails Fram
  
 ##License
 
-Code licensed under the Apache License v2.0. Documentation licensed under CC BY 3.0.
+Code licensed under the Apache License v2.0. 
+Documentation licensed under CC BY 3.0.
 Copyright 2006-2014 exensio GmbH
 see http://www.exensio.de and follow @exensio
 
